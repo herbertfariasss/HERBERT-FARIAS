@@ -10,8 +10,8 @@
 - HTML e CSS  
 
 ## 📂 Projetos
-- Sistema de Gestão de Notas (Python)  
-- Página Web Institucional (HTML)  
+-  
+- 
 
 ## 📫 Contato
 - Email: herbert.fariasss@gmail.com
