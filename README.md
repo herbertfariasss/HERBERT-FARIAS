@@ -1,4 +1,4 @@
-# HERBERT-FARIAS
+# herbertfarias
 
 # 👋 Olá, eu sou o Herbert
 
