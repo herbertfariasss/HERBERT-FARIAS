@@ -5,8 +5,7 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (UNISUAM)  
 💻 Interessado em tecnologia, inteligência artificial e desenvolvimento  
 
-## 🚀 Tecnologias
-- Java  
+## 🚀 Tecnologias  
 - Python  
 - HTML e CSS  
 
