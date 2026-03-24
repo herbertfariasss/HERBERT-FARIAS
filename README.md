@@ -3,7 +3,7 @@
 # 👋 Olá, eu sou o Herbert
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (UNISUAM)  
-💻 Interessado em tecnologia, inteligência artificial e desenvolvimento  
+💻 Interessado em tecnologia, inteligência artificial e desenvolvimento de software
 
 ## 🚀 Tecnologias  
 - Python  
